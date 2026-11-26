@@ -1,5 +1,5 @@
 # Data Engineering Hub
-A space where i can learn and apply data engineering concepts with real world projects
+A place to build practical data engineering skills.
 ## Tools I am learning 
 * VS Code
 * Terminal
